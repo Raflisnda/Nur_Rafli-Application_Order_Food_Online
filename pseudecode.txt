@@ -1,0 +1,18 @@
+READ AND WRITE "input_application"
+READ AND WRITE "choose_food_menu"
+READ AND WRITE "add_card"
+READ AND WRITE "add card done"
+IF "add_card" true
+    DISPLAY "checkout"
+ELSE "add_card" fasle
+    DISPLAY "choose_food_menu"
+END IF
+READ AND WRITE "input_checkout"
+READ AND WRITE "input_choose_payment"
+IF "input_choose_payment" true
+    DISPLAY "shoopepay"
+ELSE "input_choose_payment" fasle
+    DISPLAY "cash"
+END IF
+READ AND WRITE "input_order_food"
+END
