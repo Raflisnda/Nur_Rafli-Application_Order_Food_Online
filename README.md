@@ -6,3 +6,7 @@ Aplikasi ini adalah aplikasi yang diguanakan untuk memesan suatu makanan secara 
 -Flowchart.drawio
 -pseudecode.txt
 -README.md
+
+
+Dikerjakan oleh :
+ - 'Nur Rafli Senda - BE2617460' 
